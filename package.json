@@ -1,0 +1,21 @@
+{
+  "name": "htmt",
+  "version": "0.1.0",
+  "author": "Terrablue <terrablue@proton.me>",
+  "bugs": "https://github.com/terrablue/htmt",
+  "repository": "https://github.com/terrablue/htmt",
+  "description": "HTML templates",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/eslint-parser": "^7.19.1",
+    "@babel/plugin-syntax-import-assertions": "^7.20.0",
+    "eslint": "^8.35.0",
+    "eslint-plugin-json": "^3.1.0"
+  },
+  "type": "module",
+  "exports": "./exports.js",
+  "engines": {
+    "node": ">=17.9.0"
+  }
+}
